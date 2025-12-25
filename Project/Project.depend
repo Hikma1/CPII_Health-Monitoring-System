@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1766573504 source:c:\projects\cp _final project(health)\project\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
